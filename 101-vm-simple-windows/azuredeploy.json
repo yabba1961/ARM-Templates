@@ -6,7 +6,8 @@
       "type": "string",
       "metadata": {
         "description": "Username for the Virtual Machine."
-      }
+      },
+      "defaultValue": "adAdministrator"
     },
     "adminPassword": {
       "type": "securestring",

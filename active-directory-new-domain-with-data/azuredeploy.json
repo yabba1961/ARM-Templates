@@ -32,7 +32,7 @@
         "Southeast Asia"
       ],
       "metadata": {
-        "description": "The region to deploy the resources into, retrived from CallingScript.ps1"
+        "description": "The region to deploy the resources into, retrieved from CallingScript.ps1"
       }
     },
     "virtualNetworkName": {

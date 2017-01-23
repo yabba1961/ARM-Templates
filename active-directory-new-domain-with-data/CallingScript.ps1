@@ -1,7 +1,7 @@
 ﻿break
 
 # Shout out to @brwilkinson for assistance with some of this.
-
+# Test Wim
 
 # Install the Azure Resource Manager modules from PowerShell Gallery
 # Takes a while to install 28 modules
